@@ -1,3 +1,4 @@
-Meu Primeiro Sistema no GIT.
+Meu Segundo Sistema no GIT.
 
-Nova alteração.
+Visualizar o que foi alterado nos arquivos.
+Mais uma linha.
