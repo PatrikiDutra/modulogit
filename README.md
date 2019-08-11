@@ -1,4 +1,3 @@
-Meu Segundo Sistema no GIT.
+Meu primeiro repositório no Github.
 
 Visualizar o que foi alterado nos arquivos.
-Mais uma linha.
